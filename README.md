@@ -6,6 +6,7 @@
 * [Contribution](#contribution)
 * [License](#license)
 * [GitHub User Name / Email](#user)
+* [Walkthrough Video](#video)
 ## Description
 Module 13 challenge to create models, associations, and api routes for a fictional online store
 
@@ -28,3 +29,6 @@ https://www.github.com/FatherDkay
 
 ## Email
 paul.d.bailey@hotmail.com
+
+## Video
+https://drive.google.com/file/d/1GjkircDY3TDVQncaktXO1W79CsMCAD09/view?usp=sharing
